@@ -1,4 +1,4 @@
-# Stream-l\Log
+# Stream-lLog
 Stream log to UI via API in python flask application
 
 ### Run
